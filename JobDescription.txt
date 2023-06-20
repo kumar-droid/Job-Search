@@ -1,0 +1,113 @@
+Product is Microsoft Edge (Our direct competitor is Google Chrome)
+
+Schooling: - CBSE Board
+Graduation: - Bundelkhand University
+Masters: - Vinayaka Mission University
+
+Receive two kind of tickets
+
+Advisory cases: - Technical Advisor
+Technical Support case: - Technical Support Engineer
+
+Advisory case: - Related to group policy information, any update or minor change in the product, provide an example of IE11 deprecation.
+
+Technical Support Case: - Premier Support (Contract) and Pro Cases (Pay as you go)
+
+New Case
+
+Understand the issue.
+Research it from your end.
+Learn new things from it.
+Try it out.
+Write all the questions that come to your mind, be curious
+
+Setting the correct expectations
+
+CRITSIT case, where it is impacting the production like website is down, rendering issue, Edge Crash or a known bug, regression.
+
+If it is CRITSIT | Sev A then every Sev A case we have CRIT and IM assgined to that case so that they'll make sure the engineer will get enagaged to the cx. as soon as possible in case of production down issue.
+
+FQR (First Quality Response) to inform the cx. that I'm the engineer engaged on this case and share my work timing and also check if cx. is available for the Teams call.
+First, we try to understand the issue and then start the scoping 
+
+asking question like
+
+Did it ever work previously, and now failing? or Is this a new setup?
+How many users are affected? If not all users are affected, is this specific to a geographical location? to understand the criticallity of the issue.
+
+We also check whether its related to any ongoing known bug or regression while checking the list.
+
+Group policy
+Compatibility
+Rendering
+
+Kerberos Authentication
+
+The client initiates the authentication process by sending a request to the KDC for a ticket to access a particular service on the server.
+
+The KDC verifies the client's identity and generates two tickets: a Ticket Granting Ticket (TGT) and a Service Ticket. The TGT is encrypted with the client's credentials and is used for subsequent authentication requests. The Service Ticket is encrypted with the server's secret key and is used to authenticate with the specific service.
+
+The client receives the TGT and caches it for future use. The client then sends the Service Ticket request to the KDC, providing the TGT and the server's information.
+
+The KDC validates the TGT and issues the Service Ticket to the client.
+
+The client presents the Service Ticket to the server to request access to the desired service.
+
+The server verifies the authenticity of the Service Ticket by decrypting it using its own secret key. If the decryption is successful, the server grants access to the client for the requested service.
+
+ICM: - 
+Incident and Change Management: In the field of IT Service Management (ITSM), ICM refers to the combined processes of incident management and change management. Incident management focuses on resolving and managing unplanned disruptions in IT services, while change management deals with controlled changes to IT infrastructure and services.
+
+Major Version Update:
+New version: 2.0.0
+Description: This update introduces a complete redesign of the user interface, introduces new features, and makes significant changes to the underlying architecture. It may require users to update their code or configurations to accommodate the changes.
+
+Minor Version Update:
+New version: 2.1.0
+Description: This update adds new functionality, improves existing features, and includes bug fixes. It does not introduce any backward-incompatible changes and can be applied without significant modifications to the existing codebase.
+
+Patch Version Update:
+New version: 2.1.1
+Description: This update addresses a critical security vulnerability and fixes several minor bugs. It does not introduce any new features or functionality but is crucial for ensuring the stability and security of the application.
+
+Bug: A bug refers to a defect or an issue in the software that causes it to behave unexpectedly or incorrectly. Bugs can occur at any stage of the software development lifecycle and can result from coding errors, design flaws, or other factors. Bugs are typically unintended and are considered as problems that need to be fixed.
+
+Regression: Regression, on the other hand, refers to the reoccurrence of a previously fixed or working functionality that has now become defective again after changes have been made to the software. In other words, a regression occurs when a change in the software introduces a new bug or causes a previously resolved bug to resurface. Regression testing is performed to ensure that existing functionalities are not affected by new changes.
+
+To summarize, a bug is any defect or issue in the software, while a regression specifically refers to the reappearance of a previously fixed or working defect.
+
+There are different organization or clients in the market
+
+Wants to Migrate or Implement DevOps in their organization.
+
+How exactly they need to do
+What steps they've to follow
+What tools they need to incorporate
+
+Some customer's having different tools like Jenkins or Subversion (SVN) 
+
+MSBuild comes pre-packaged with Visual Studio as its build tool. MSBuild can also be downloaded as separate toll without needing Visual Studio.
+
+MSBuild Porject Files
+
+Sample XML Config file
+
+MSBuild Installation
+
+MSBuild Hands-on-lab
+
+Repositories, branches, commits, and pull requests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
